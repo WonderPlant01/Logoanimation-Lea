@@ -1,1 +1,1 @@
-<img width="1080" height="720" alt="Logoanimation Lea" src="https://github.com/user-attachments/assets/4e01beb2-32d0-4145-b291-c7116722196c" />
+<img width="1260" height="616" alt="LogoANIMATION" src="https://github.com/user-attachments/assets/726678ce-b0bb-4483-9ba6-fb037d6eaee1" />
